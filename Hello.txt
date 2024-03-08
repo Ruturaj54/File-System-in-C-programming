@@ -1,0 +1,87 @@
+Marvellous Logic Building Assignment : 47 
+Logic Building Assignment : 47
+1.Write a program which accept matrix from user and display transpose of the 
+matrix.
+The transpose of a given matrix is formed by interchanging the rows and 
+columns of a matrix.
+Input :
+Output :
+void Transpose(int Arr[][], int iRow, int iCol)
+{
+//Logic
+}
+3 2 5 9
+4 3 2 2
+8 4 1 5
+3 9 7 5
+3 4 8 3
+2 3 4 9
+5 2 1 7
+9 2 5 5
+Piyush Khairnar : 7588945488 आम्ही Technical संस्कार करतो !!! ©Marvellous Infosystems Page 1
+Marvellous Logic Building Assignment : 47 
+2. Write a program which accept matrix and reverse the contents of each row.
+Input :
+Output :
+void ReverseRow(int Arr[][], int iRow, int iCol)
+{
+//Logic
+}
+3. Write a program which accept matrix and reverse the contents of each 
+column.
+Input :
+Output :
+3 2 5 9
+4 3 2 2
+8 4 1 9
+3 9 7 5
+9 5 2 3
+2 2 3 4
+9 1 4 8
+5 7 9 3
+3 2 5 9
+4 3 2 2
+8 4 1 9
+3 9 7 5
+Piyush Khairnar : 7588945488 आम्ही Technical संस्कार करतो !!! ©Marvellous Infosystems Page 2
+Marvellous Logic Building Assignment : 47 
+void ReverseCol(int Arr[][], int iRow, int iCol)
+{
+//Logic
+}
+4. Write a program which accept matrix and check whether the matrix is 
+identity matrix or not.
+Identity matrix is a square matrix with 1’s along the diagonal from upper left to 
+lower right and 0’s in all other positions. 
+If it satisfies the structure as explained before then the matrix is called as 
+identity matrix.
+Input :
+Output : True
+BOOL ChkIdentity(int Arr[][], int iRow, int iCol)
+{
+//Logic
+}
+3 9 7 5
+8 4 1 9
+4 3 2 2
+3 2 5 9
+1 0 0 0
+0 1 0 0
+0 0 1 0
+0 0 0 1
+Piyush Khairnar : 7588945488 आम्ही Technical संस्कार करतो !!! ©Marvellous Infosystems Page 3
+Marvellous Logic Building Assignment : 47 
+5. /Write a program which accept matrix and check whether the matrix is 
+Sparse matrix or not.
+Sparse matrix is a matrix with the majority of its elements equal to zero.
+Input :
+Output : True
+BOOL ChkSparse(int Arr[][], int iRow, int iCol)
+{
+//Logic
+}
+1 0 3 0
+0 6 0 0
+0 0 1 0
+9 0 0 9
+Piyush Khairnar : 7588945488 आम्ही Technical संस्कार करतो !!! ©Marvellous Infosystems Page 4
